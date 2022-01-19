@@ -1,0 +1,105 @@
+		--- 0.0 INTRO ---
+
+0.1 - Mind set
+	Siempre ha que volver a lo básico
+	No hay un unico camino para entender las cosas
+ 0.1.1 Metas
+ 	Metas de un musico:
+ 		-presentarse
+ 		-tener un repertorio
+ 		-ir generando un portafolio
+ 	Metas del path:
+ 		-Capacidad de lectura de un alumno de tercer año del CMC
+ 		-Escribir melodías sobre una progresión dada
+ 		-Entender frases y periodos de 8 compases
+ 0.1.2 Sistema
+ 	El sistema por encima de la motivación
+ 	Logros acumulativos
+ 0.1.3 Dile adios ala perfección
+ 	Cantidad sobre calidad
+ 	La acumulación de experiencias es lo que genera la calidad
+ 0.1.4 El que empezo de niño ¿es mejor que tú?
+ 	Su mayor ventaja es el repertorio acumulado
+
+
+0.2 - Herramientas
+ 0.2.1 - Editor de Partituras
+ 	Instalacion de MuseScore
+ 	Tutorial básico
+ 0.2.2 - Teclado
+ 	Intro a los teclados
+ 	Las teclas
+ 0.2.3 - Metronomo
+ 	Tu mejor amigo
+ 0.2.3 - Grabadora
+ 	¿Por que debes grabarte?
+ 	Beneficios a corto y largo plazo
+ 0.2.4 - Lápiz y papel
+ 	Importancia del lapiz
+ 	Flexibilidad del papel
+ 
+0.3 - ¿Lenguaje Musical?
+ 0.3.1 - Adquisición de un idioma
+ 0.3.2 - 
+ 
+ *** Muchos nombres para una cosa, muchas cosas con un mismo nombres
+ 
+ 
+ 		--- 1.0 PRIMERAS NOTAS ---
+
+1.1 Bases de Lecto escritura
+	Pentagrama y línea rítmica
+	Claves y Cifra Indicadora
+	Figuras: Redonda, Blanca y Negra
+	Notas musicales
+	
+1.2 Ritmo
+	Concepto de ritmo // Bucar el de Levitin
+	Cifras/Ritmos de 4/4, 3/4 y 2/4
+	Lectura de redondas y blancas
+	" " "   de ngras y blancas
+	Lectura de todos los elementos anteriores
+	"	"	"	"	"	con pies y manos
+	
+1.3 Solfeo
+	¿Ques es?
+	Notación Silabica vs Cifrada
+	Notas sueltas
+	Afinación
+	Escala de Do Mayor: ascendente y descendente, por 2das y terceras.
+	Arpg de C
+	Lecturas con progresiones en I, IV y V(7) grado: Solas y con piano
+	Uso de la mano para marcar pulso
+	
+
+		--- 2.0 Intervalos y Silencios ---
+2.1 Silencio
+	Concepto y funcion
+	Lectura del silencio // no es inactividad
+	ectura de todos los elementos anteriores
+	"	"	"	"	"	con pies y manos
+	
+2.2 Intervalos
+	Cualificación
+	Clasificación
+	Intervalos en la escala de Do
+	Escribir melodías con intervalos dados
+	
+2.3 Solfeo
+	Solfeo con silencios
+	"	"	"	y intervalos definidos
+	
+	
+		--- 3.0 Sincopa y contratiempo ---
+		// incluir corcheas y semi-corcheas
+		
+		--- 4.0 Acordes y notas accidentales ---
+		
+		
+		--- 5.0 Escalas y Circulo de 5tas ---
+		
+		
+		--- 6.0 Compas simple y compuesto ---
+	 
+	
+		--- 7.0 Tresillo/Dosillo y Notas de adorno ---
