@@ -1,0 +1,21 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    align-items: center;
+}
+
+.top{
+    width: 100%;
+    padding: auto;
+    align-items: center;
+    border-color: green;
+}
+
+.paths{
+    display: flex;
+    flex-direction: row;
+    background-color: blue;
+    padding: 10px;
+}

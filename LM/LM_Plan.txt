@@ -4,7 +4,7 @@
 	Siempre ha que volver a lo básico
 	No hay un unico camino para entender las cosas
  0.1.1 Metas
- 	Metas de un musico:
+ 	Metas de un músico:
  		-presentarse
  		-tener un repertorio
  		-ir generando un portafolio
@@ -57,7 +57,7 @@
 	Concepto de ritmo // Bucar el de Levitin
 	Cifras/Ritmos de 4/4, 3/4 y 2/4
 	Lectura de redondas y blancas
-	" " "   de ngras y blancas
+	" " "   de negras y blancas
 	Lectura de todos los elementos anteriores
 	"	"	"	"	"	con pies y manos
 	
@@ -74,9 +74,9 @@
 
 		--- 2.0 Intervalos y Silencios ---
 2.1 Silencio
-	Concepto y funcion
+	Concepto y función
 	Lectura del silencio // no es inactividad
-	ectura de todos los elementos anteriores
+	Lectura de todos los elementos anteriores
 	"	"	"	"	"	con pies y manos
 	
 2.2 Intervalos
@@ -91,15 +91,63 @@
 	
 	
 		--- 3.0 Sincopa y contratiempo ---
-		// incluir corcheas y semi-corcheas
+		
+3.1 Ligadura de expresión y de prolongacion
+3.2 Corcheas y semi corcheas
+3.3 Contra tiempo (silencios de corcheas y semi corcheas)
+3.4 Solfeo con los elementos anteriores
+		
 		
 		--- 4.0 Acordes y notas accidentales ---
 		
+4.1 Sostenidos, bemoles y becuadros.
+4.2 Más intervalos
+4.3 Acordes:
+	M
+	m
+	d°
+	Au+
+
 		
-		--- 5.0 Escalas y Circulo de 5tas ---
+		--- 5.0 Escalas Mayores y Circulo de 5tas ---
+5.1 Escala y concepto
+5.2 Escalas mayores
+	Intervalica de grado a grado
+	Grados de las escala
+	Su 3er y  6to grado
+5.3 Acordes de la escala
+	Grados tonales
+	Funciones de los acordes
+5.4 Lectura:
+	1 5ta
+	2 5tas
+	3 5tas
+	4 5tas
 		
 		
-		--- 6.0 Compas simple y compuesto ---
+		--- 6.0 Escalas Menores  ---
+5.1 Escalas menores
+	Tipos de escalas menores
+	Intervalica de grado a grado
+	Grados de las escala
+	Su 3er y  6to grado
+5.2 Acordes de la escala
+5.3 Lectura:
+	1 5ta
+	2 5tas
+	3 5tas
+	4 5tas		
+		
+		--- 7.0 Compas simple y compuesto ---
+7.1 División  irregular del tiempo
+7.2 Lectura de compases compues
+7.2 Relación Simple <=> Compuesto
+
 	 
 	
-		--- 7.0 Tresillo/Dosillo y Notas de adorno ---
+		--- 8.0 Tresillo/Dosillo y Notas de adorno ---
+
+8.2 Divisiones irregulares
+	Tresillo
+	Dosillo
+	
