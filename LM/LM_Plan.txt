@@ -80,28 +80,35 @@
 	"	"	"	"	"	con pies y manos
 	
 2.2 Intervalos
+	2das y terceras
 	Cualificación
 	Clasificación
 	Intervalos en la escala de Do
-	Escribir melodías con intervalos dados
+	Escribir melodías con intervalos dados sobre prog I-IV-V(7)
 	
 2.3 Solfeo
 	Solfeo con silencios
 	"	"	"	y intervalos definidos
 	
 	
-		--- 3.0 Sincopa y contratiempo ---
+		--- 3.0 Sincopa, contratiempo y puntillo ---
 		
 3.1 Ligadura de expresión y de prolongacion
+	Audcion de frases ligadas
+	Prologanciones de tiempo a tiempo
 3.2 Corcheas y semi corcheas
+	figuras con sus silencios respectivos
+3.3 El puntillo con todas las figuras trabajadas
+	Definicion escritura y función
 3.3 Contra tiempo (silencios de corcheas y semi corcheas)
+	Contra Tiempo de corchea
 3.4 Solfeo con los elementos anteriores
 		
 		
 		--- 4.0 Acordes y notas accidentales ---
 		
 4.1 Sostenidos, bemoles y becuadros.
-4.2 Más intervalos
+4.2 Más intervalos: 4tas y 5tas
 4.3 Acordes:
 	M
 	m
@@ -111,11 +118,16 @@
 		
 		--- 5.0 Escalas Mayores y Circulo de 5tas ---
 5.1 Escala y concepto
+	
 5.2 Escalas mayores
 	Intervalica de grado a grado
-	Grados de las escala
-	Su 3er y  6to grado
-5.3 Acordes de la escala
+	Grados modales (ver a travez del acorde mayor I)
+	Grados tonales (los tres acordes mayores)
+5.3 Construcción de Escalas
+	Por Tetracordos
+	Circulo de Quintas
+	Circulo a traves del Pentagrama
+5.4 Acordes de la escala
 	Grados tonales
 	Funciones de los acordes
 5.4 Lectura:
